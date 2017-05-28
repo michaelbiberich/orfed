@@ -1,0 +1,14 @@
+{
+    "name": "michaelbiberich/orfed",
+    "description": "Download all free ebooks from http://www.oreilly.com by running a single PHP script.",
+    "authors": [
+        {
+            "name": "Michael Biberich",
+            "email": "michael@biberich.at"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "MIT"
+}
